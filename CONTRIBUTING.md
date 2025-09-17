@@ -1,6 +1,6 @@
 # Contributing to GEVER configuration
 
-Source code for GEVER business configurations is open source software released under the [Universal Permissive License 1.0 (UPL-1.0)](./LICENSE).
+Source code for GEVER business configurations is open source software released under the [MIT License](./LICENSE).
 
 ## External contributions cannot be accepted currently
 
